@@ -8,7 +8,7 @@ def process_one_file(json_file_name):
     print("# Generated List of Police Forces (WikiData/WhatDoTheyKnow)")
     print("*This list of of Home Office (Territorial) Forces and does not yet include certain forces*")
     print("\n")
-    print("|force|website|wdtk|wdtk-json|atom|json|")
+    print("|Organisation Name|Website|WDTK Org Page|WDTK JSON|Atom Feed|JSON Feed|")
     print("|-|-|-|-|-|-|")
     results = []
     for item in imported_json:
