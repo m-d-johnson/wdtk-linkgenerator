@@ -6,7 +6,6 @@ from datetime import datetime
 
 # TODO: Non-Home Office forces
 # TODO: Get Disclosure Log URLs
-# TODO: Generate OPML for feed readers
 
 from opml import OpmlDocument
 
@@ -23,6 +22,9 @@ def process_one_file(json_file_name):
     print("# Generated List of Police Forces (WikiData/WhatDoTheyKnow)")
     print("*This list of Home Office (Territorial) Forces and does not yet include certain forces*")
     print("\n")
+    print("[OPML File Available](https://github.com/m-d-johnson/wdtk-linkgenerator/blob/master/police.opml)")
+    print("\n")
+
     print("|Organisation Name|Website|WDTK Org Page|WDTK JSON|Atom Feed|JSON Feed|Publication Scheme|")
     print("|-|-|-|-|-|-|-|")
     results = []
@@ -57,8 +59,6 @@ def process_one_file(json_file_name):
     results.sort()
     for i in results:
         print(i)
-
-
 
 
 # wdtk page: https://www.whatdotheyknow.com/body/{name_of_org}
