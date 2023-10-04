@@ -699,7 +699,7 @@
     "item": "http://www.wikidata.org/entity/Q4590862",
     "itemLabel": "North Yorkshire Police",
     "website": "https://www.northyorkshire.police.uk/",
-    "wdtk": "north_yorkshire_police"
+    "wdtk": "nyp"
   },
   {
     "item": "http://www.wikidata.org/entity/Q24993950",
@@ -717,7 +717,7 @@
     "item": "http://www.wikidata.org/entity/Q24993958",
     "itemLabel": "Cumbria Police and Crime Commissioner",
     "website": "https://cumbria-pcc.gov.uk",
-    "wdtk": "cumbria_pcc"
+    "wdtk": "cumbria_pfcc"
   },
   {
     "item": "http://www.wikidata.org/entity/Q24993976",
