@@ -43,7 +43,7 @@ Craigavon District Policing Partnership (DPP),craigavon_district_policing_partne
 Cumbria Constabulary,cumbria_police
 Cumbria Police and Crime Panel,cumbria_pcp
 Cumbria Police Authority,cumbria_police_authority
-Cumbria Police, Fire and Crime Commissioner,cumbria_pfcc
+Cumbria Police Fire and Crime Commissioner,cumbria_pfcc
 Derbyshire Constabulary,derbyshire_police
 Derbyshire Police and Crime Commissioner,derbyshire_pcc
 Derbyshire Police and Crime Panel,derbyshire_pcp
@@ -69,8 +69,8 @@ Dyfed-Powys Police and Crime Commissioner,dyfed_powys_pcc
 Dyfed-Powys Police and Crime Panel,dyfed_powys_pcp
 Dyfed-Powys Police Authority,dyfed_powys_police_authority
 Essex Police Authority,essex_police_authority
-Essex Police, Fire and Crime Commissioner,essex_pfcc
-Essex Police, Fire and Crime Panel,essex_police_fire_and_crime_panel
+Essex Police Fire and Crime Commissioner,essex_pfcc
+Essex Police Fire and Crime Panel,essex_police_fire_and_crime_panel
 Essex Police,essex_police
 Falmouth Docks Police,falmouth_docks_police
 Fermanagh District Policing Partnership (DPP),fermanagh_district_policing_partnership_dpp
@@ -151,11 +151,11 @@ North Wales Police Authority,north_wales_police_authority
 North Wales Police,north_wales_police
 North Yorkshire Police and Crime Panel,north_yorkshire_pcp
 North Yorkshire Police Authority,north_yorkshire_police_authority
-North Yorkshire Police, Fire and Crime Commissioner,north_yorkshire_pfcc
+North Yorkshire Police Fire and Crime Commissioner,north_yorkshire_pfcc
 North Yorkshire Police,nyp
 Northamptonshire Police and Crime Panel,northamptonshire_pcp
 Northamptonshire Police Authority,northamptonshire_police_authority
-Northamptonshire Police, Fire and Crime Commissioner,northamptonshire_pcc
+Northamptonshire Police Fire and Crime Commissioner,northamptonshire_pcc
 Northamptonshire Police,northamptonshire_police
 Northern Constabulary,northern_constabulary
 Northern Ireland Police Fund,northern_ireland_police_fund
@@ -198,7 +198,7 @@ South Yorkshire Police Authority,south_yorkshire_police_authority
 South Yorkshire Police,syp
 Staffordshire Police and Crime Panel,staffordshire_pcp
 Staffordshire Police Authority,staffordshire_police_authority
-Staffordshire Police, Fire and Crime Commissioner,staffordshire_pfcc
+Staffordshire Police Fire and Crime Commissioner,staffordshire_pfcc
 Staffordshire Police,staffordshire_police
 Strabane District Policing Partnership (DPP),strabane_district_policing_partnership_dpp
 Strathclyde Joint Police Board,strathclyde_joint_police_board
