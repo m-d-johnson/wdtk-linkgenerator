@@ -1,19 +1,27 @@
+import datetime
 import json
 import sys
-
 import requests
-
+from datetime import datetime
 
 # TODO: Non-Home Office forces
 # TODO: Get Disclosure Log URLs
 # TODO: Generate OPML for feed readers
+
+from opml import OpmlDocument
+
+document = OpmlDocument(
+    title='United Kingdom Police Forces and Associated Bodies',
+    owner_name='Mike Johnson',
+    owner_email='mdj.uk@pm.me'
+)
 
 
 def process_one_file(json_file_name):
     fh = open(json_file_name, 'r')
     imported_json = json.load(fh)
     print("# Generated List of Police Forces (WikiData/WhatDoTheyKnow)")
-    print("*This list of of Home Office (Territorial) Forces and does not yet include certain forces*")
+    print("*This list of Home Office (Territorial) Forces and does not yet include certain forces*")
     print("\n")
     print("|Organisation Name|Website|WDTK Org Page|WDTK JSON|Atom Feed|JSON Feed|Publication Scheme|")
     print("|-|-|-|-|-|-|-|")
@@ -26,6 +34,8 @@ def process_one_file(json_file_name):
         wdtk_data = response.json()
         if wdtk_data['publication_scheme']:
             pubscheme = wdtk_data['publication_scheme']
+        else:
+            pubscheme = "https://whatdotheyknow.com/"
 
         row = f"|{name_of_org} | "
         row += f"[Website]({url})|"
@@ -36,9 +46,19 @@ def process_one_file(json_file_name):
         row += f"[Publication Scheme]({pubscheme})|"
         results.append(row)
 
+        feed = document.add_rss(
+            f"{name_of_org} FOI Disclosures",
+            f"https://www.whatdotheyknow.com/feed/body/{wdtk}",
+            version='RSS2',
+            created=datetime.now()
+        )
+
+    document.dump('police.opml', pretty=True)
     results.sort()
     for i in results:
         print(i)
+
+
 
 
 # wdtk page: https://www.whatdotheyknow.com/body/{name_of_org}
