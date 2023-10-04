@@ -5,9 +5,9 @@ import requests
 from datetime import datetime
 import csv
 
-# TODO: Non-Home Office forces
-# TODO: Get Disclosure Log URLs
-# TODO: Reduce the replication in this script
+# TODO: Non-Home Office forces: MDP, BTP, CNC, etc
+# TODO: Get Disclosure Log URLs: Need to talk to MyDemocracy
+# TODO: Reduce the replication in this script: It's a quick and dirty tool for something.
 
 from opml import OpmlDocument
 
@@ -45,6 +45,16 @@ def process_one_csv_file(csv_file_name):
         wdtk = row[1]
         url = f"https://www.whatdotheyknow.com/body/{wdtk}"
         pubscheme = url
+        response = requests.get(f"https://www.whatdotheyknow.com/body/{wdtk}.json")
+        wdtk_data = response.json()
+        if wdtk_data['publication_scheme']:
+            pubscheme = wdtk_data['publication_scheme']
+        else:
+            pubscheme = "https://whatdotheyknow.com/"
+        if wdtk_data['home_page']:
+            url = wdtk_data['home_page']
+        else:
+            url = "https://whatdotheyknow.com/"
 
         row = f"|{name_of_org} | "
         row += f"[Website]({url})|"
