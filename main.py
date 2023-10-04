@@ -28,9 +28,9 @@ def print_header():
     print("|-|-|-|-|-|-|-|")
 
 
-
 def process_one_csv_file(csv_file_name):
     rows = []
+    results = []
     # reading csv file
     with open(csv_file_name, 'r') as csvfile:
         # creating a csv reader object
@@ -38,9 +38,39 @@ def process_one_csv_file(csv_file_name):
         # extracting each data row one by one
         for row in csvreader:
             rows.append(row)
-
+    print_header()
     for row in rows:
-        print(row[1], row[0])
+        name_of_org = row[0]
+        wdtk = row[1]
+        url = f"https://www.whatdotheyknow.com/body/{wdtk}"
+        pubscheme = url
+
+        row = f"|{name_of_org} | "
+        row += f"[Website]({url})|"
+        row += f"[wdtk page](https://www.whatdotheyknow.com/body/{wdtk})|"
+        row += f"[wdtk json](https://www.whatdotheyknow.com/body/{wdtk}.json)|"
+        row += f"[wdtk atom feed](https://www.whatdotheyknow.com/feed/body/{wdtk})|"
+        row += f"[wdtk json feed](https://www.whatdotheyknow.com/feed/body/{wdtk}.json)|"
+        row += f"[Publication Scheme]({pubscheme})|"
+        results.append(row)
+
+        feed = document.add_rss(
+            f"{name_of_org} FOI Disclosures",
+            f"https://www.whatdotheyknow.com/feed/body/{wdtk}",
+            version='RSS2',
+            created=datetime.now()
+        )
+
+    document.dump('police.opml', pretty=True)
+
+    results.sort()
+    for i in results:
+        print(i)
+
+
+# wdtk page: https://www.whatdotheyknow.com/body/{name_of_org}
+# wdtk atom feed: https://www.whatdotheyknow.com/feed/body/{name_of_org}
+# wdtk json feed: https://www.whatdotheyknow.com/feed/body/{name_of_org}.json
 
 
 def process_one_json_file(json_file_name):
@@ -90,5 +120,5 @@ def process_one_json_file(json_file_name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     for filename in sys.argv[1:]:
-        process_one_json_file(filename)
-        # process_one_csv_file(filename)
+        # process_one_json_file(filename)
+        process_one_csv_file(filename)
