@@ -1,133 +1,133 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="2.0">
   <head>
-    <title>United Kingdom Police Forces and Associated Bodies</title>
+    <title>United Kingdom Home Office (Territorial) Police Forces and Associated Bodies</title>
     <ownerName>Mike Johnson</ownerName>
     <ownerEmail>mdj.uk@pm.me</ownerEmail>
     <docs>http://opml.org/spec2.opml</docs>
   </head>
   <body>
-    <outline text="Dyfed–Powys Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/dyfed_powys_police" version="RSS2"/>
-    <outline text="Central Scotland Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/central_scotland_police" version="RSS2"/>
-    <outline text="Sussex Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/sussex_police" version="RSS2"/>
-    <outline text="Gloucestershire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gloucestershire_police" version="RSS2"/>
-    <outline text="Fife Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/fife_constabulary" version="RSS2"/>
-    <outline text="Metropolitan Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/the_met" version="RSS2"/>
-    <outline text="Bedfordshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/bedfordshire_police" version="RSS2"/>
-    <outline text="Hampshire and Isle of Wight Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hampshire_police" version="RSS2"/>
-    <outline text="Port of Felixstowe Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/port_of_felixstowe_police" version="RSS2"/>
-    <outline text="Cheshire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cheshire_police" version="RSS2"/>
-    <outline text="City of London Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/city_of_london_police" version="RSS2"/>
-    <outline text="Gwent Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gwent_police" version="RSS2"/>
-    <outline text="Northern Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/northern_constabulary" version="RSS2"/>
-    <outline text="Suffolk Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/suffolk_police" version="RSS2"/>
-    <outline text="Greater Manchester Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gmp" version="RSS2"/>
-    <outline text="Port of Dover Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/port_of_dover_police" version="RSS2"/>
-    <outline text="Port of Liverpool Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/port_of_liverpool_police" version="RSS2"/>
-    <outline text="Leicestershire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/leicestershire_police" version="RSS2"/>
-    <outline text="Northamptonshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/northamptonshire_police" version="RSS2"/>
-    <outline text="Lincolnshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lincolnshire_police" version="RSS2"/>
-    <outline text="West Midlands Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/wmp" version="RSS2"/>
-    <outline text="West Yorkshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/west_yorkshire_police" version="RSS2"/>
-    <outline text="Humberside Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/humberside_police" version="RSS2"/>
-    <outline text="Cumbria Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cumbria_pcp" version="RSS2"/>
-    <outline text="Hampshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hampshire_pcp" version="RSS2"/>
-    <outline text="Lincolnshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lincolnshire_pcp" version="RSS2"/>
-    <outline text="Devon and Cornwall Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/devon_and_cornwall_police" version="RSS2"/>
-    <outline text="Staffordshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/staffordshire_police" version="RSS2"/>
-    <outline text="Lancashire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lancashire_pcp" version="RSS2"/>
-    <outline text="North Wales Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/north_wales_pcp" version="RSS2"/>
-    <outline text="North Yorkshire Police, Fire and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/north_yorkshire_pcp" version="RSS2"/>
-    <outline text="Wiltshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/wiltshire_pcp" version="RSS2"/>
-    <outline text="Lancashire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lancashire_police" version="RSS2"/>
-    <outline text="Essex Police, Fire and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/essex_pfcc" version="RSS2"/>
-    <outline text="Lothian and Borders Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lothian_and_borders_police" version="RSS2"/>
-    <outline text="Devon and Cornwall Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/devon_and_cornwall_pcc" version="RSS2"/>
-    <outline text="Gwent Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gwent_pcc" version="RSS2"/>
-    <outline text="North Wales Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/north_wales_pcc" version="RSS2"/>
-    <outline text="South Wales Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/south_wales_pcc" version="RSS2"/>
-    <outline text="West Mercia Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/west_mercia_police" version="RSS2"/>
-    <outline text="West Yorkshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/west_yorkshire_pcp" version="RSS2"/>
-    <outline text="Cambridge University Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/university_of_cambridge_constabulary" version="RSS2"/>
-    <outline text="Cheshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cheshire_pcc" version="RSS2"/>
-    <outline text="Lincolnshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lincolnshire_pcc" version="RSS2"/>
-    <outline text="Merseyside Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/merseyside_police" version="RSS2"/>
-    <outline text="North Wales Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/north_wales_police" version="RSS2"/>
-    <outline text="South Yorkshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/syp" version="RSS2"/>
-    <outline text="Essex Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/essex_police" version="RSS2"/>
-    <outline text="Dyfed-Powys Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/dyfed_powys_pcc" version="RSS2"/>
-    <outline text="Hampshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hampshire_pcc" version="RSS2"/>
-    <outline text="Leicestershire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/leicestershire_pcc" version="RSS2"/>
-    <outline text="Northumbria Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/northumbria_pcc" version="RSS2"/>
-    <outline text="West Yorkshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/west_yorkshire_pcc" version="RSS2"/>
-    <outline text="Durham Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/durham_pcp" version="RSS2"/>
-    <outline text="Dyfed-Powys Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/dyfed_powys_pcp" version="RSS2"/>
-    <outline text="Leicestershire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/leicestershire_pcp" version="RSS2"/>
-    <outline text="Staffordshire Police, Fire and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/staffordshire_pcp" version="RSS2"/>
-    <outline text="Cleveland Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cleveland_police" version="RSS2"/>
-    <outline text="Dorset Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/dorset_police" version="RSS2"/>
-    <outline text="Bedfordshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/bedfordshire_pcp" version="RSS2"/>
-    <outline text="Derbyshire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/derbyshire_police" version="RSS2"/>
-    <outline text="Grampian Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/grampian_police" version="RSS2"/>
-    <outline text="Surrey Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/surrey_pcp" version="RSS2"/>
-    <outline text="Sussex Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/sussex_pcp" version="RSS2"/>
-    <outline text="West Midlands Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body//west_midlands_pcp" version="RSS2"/>
-    <outline text="Cambridgeshire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cambridgeshire_police" version="RSS2"/>
-    <outline text="Tayside Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/tayside_police" version="RSS2"/>
-    <outline text="North Yorkshire Police, Fire and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/north_yorkshire_pfcc" version="RSS2"/>
-    <outline text="Police Scotland FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/police_scotland" version="RSS2"/>
-    <outline text="West Midlands Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/west_midlands_pcc" version="RSS2"/>
-    <outline text="Derbyshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/derbyshire_pcc" version="RSS2"/>
-    <outline text="Nottinghamshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/nottinghamshire_pcc" version="RSS2"/>
-    <outline text="Suffolk Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/suffolk_pcc" version="RSS2"/>
-    <outline text="Kent Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/kent_police" version="RSS2"/>
-    <outline text="Norfolk Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/norfolk_police" version="RSS2"/>
-    <outline text="Cumbria Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cumbria_police" version="RSS2"/>
-    <outline text="Gloucestershire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gloucestershire_pcp" version="RSS2"/>
-    <outline text="Norfolk Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/norfolk_pcp" version="RSS2"/>
-    <outline text="Warwickshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/warwickshire_pcp" version="RSS2"/>
-    <outline text="Avon and Somerset Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/avon_and_somerset_police_and_crime_panel" version="RSS2"/>
-    <outline text="Hertfordshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hertfordshire_pcp" version="RSS2"/>
-    <outline text="Essex Police, Fire and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/essex_police_fire_and_crime_panel" version="RSS2"/>
-    <outline text="Gwent Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gwent_pcp" version="RSS2"/>
-    <outline text="Kent Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/kent_pcp" version="RSS2"/>
-    <outline text="Suffolk Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/suffolk_pcp" version="RSS2"/>
-    <outline text="Bedfordshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/bedfordshire_pcc" version="RSS2"/>
-    <outline text="Surrey Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/surrey_police" version="RSS2"/>
-    <outline text="Warwickshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/warwickshire_police" version="RSS2"/>
-    <outline text="Thames Valley Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/thames_valley_police" version="RSS2"/>
-    <outline text="Nottinghamshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/nottinghamshire_police" version="RSS2"/>
-    <outline text="Gloucestershire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gloucestershire_pcc" version="RSS2"/>
-    <outline text="Thames Valley Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/thames_valley_pcc" version="RSS2"/>
-    <outline text="Avon and Somerset Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:26 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/avon_and_somerset_pcc" version="RSS2"/>
-    <outline text="Wiltshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:26 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/wiltshire_police" version="RSS2"/>
-    <outline text="Hertfordshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:26 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hertfordshire_pcc" version="RSS2"/>
-    <outline text="Lancashire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:26 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lancashire_pcc" version="RSS2"/>
-    <outline text="Surrey Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/surrey_pcc" version="RSS2"/>
-    <outline text="Warwickshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/warwickshire_pcc" version="RSS2"/>
-    <outline text="South Wales Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/south_wales_police" version="RSS2"/>
-    <outline text="Dorset Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/dorset_pcc" version="RSS2"/>
-    <outline text="Norfolk Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/norfolk_pcc" version="RSS2"/>
-    <outline text="Wiltshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/wiltshire_pcc" version="RSS2"/>
-    <outline text="Northumbria Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/northumbria_police" version="RSS2"/>
-    <outline text="Avon and Somerset Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/avon_and_somerset_police" version="RSS2"/>
-    <outline text="Cambridgeshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cambridgeshire_pcp" version="RSS2"/>
-    <outline text="Cheshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cheshire_pcp" version="RSS2"/>
-    <outline text="Derbyshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/derbyshire_pcp" version="RSS2"/>
-    <outline text="Devon and Cornwall Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/devon_and_cornwall_pcp" version="RSS2"/>
-    <outline text="Humberside Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/humberside_pcp" version="RSS2"/>
-    <outline text="Merseyside Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/merseyside_pcp" version="RSS2"/>
-    <outline text="Nottinghamshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/nottinghamshire_pcp" version="RSS2"/>
-    <outline text="South Wales Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/south_wales_pcp" version="RSS2"/>
-    <outline text="Thames Valley Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/thames_valley_pcp" version="RSS2"/>
-    <outline text="Durham Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/durham_police" version="RSS2"/>
-    <outline text="Greater Manchester Police, Fire and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/greater_manchester_pcp" version="RSS2"/>
-    <outline text="Cleveland Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cleveland_pcc" version="RSS2"/>
-    <outline text="North Yorkshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/nyp" version="RSS2"/>
-    <outline text="Cambridgeshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cambridgeshire_pcc" version="RSS2"/>
-    <outline text="Humberside Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/humberside_pcc" version="RSS2"/>
-    <outline text="Cumbria Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cumbria_pfcc" version="RSS2"/>
-    <outline text="Kent Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/kent_pcc" version="RSS2"/>
-    <outline text="Hertfordshire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 13:07:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hertfordshire_police" version="RSS2"/>
+    <outline text="Dyfedâ€“Powys Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:08 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/dyfed_powys_police" version="RSS2"/>
+    <outline text="Central Scotland Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:08 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/central_scotland_police" version="RSS2"/>
+    <outline text="Sussex Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:09 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/sussex_police" version="RSS2"/>
+    <outline text="Gloucestershire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:09 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gloucestershire_police" version="RSS2"/>
+    <outline text="Fife Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:09 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/fife_constabulary" version="RSS2"/>
+    <outline text="Metropolitan Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:09 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/the_met" version="RSS2"/>
+    <outline text="Bedfordshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:10 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/bedfordshire_police" version="RSS2"/>
+    <outline text="Hampshire and Isle of Wight Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:10 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hampshire_police" version="RSS2"/>
+    <outline text="Port of Felixstowe Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:10 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/port_of_felixstowe_police" version="RSS2"/>
+    <outline text="Cheshire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:10 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cheshire_police" version="RSS2"/>
+    <outline text="City of London Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:11 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/city_of_london_police" version="RSS2"/>
+    <outline text="Gwent Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:11 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gwent_police" version="RSS2"/>
+    <outline text="Northern Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:11 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/northern_constabulary" version="RSS2"/>
+    <outline text="Suffolk Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:12 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/suffolk_police" version="RSS2"/>
+    <outline text="Greater Manchester Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:12 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gmp" version="RSS2"/>
+    <outline text="Port of Dover Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:12 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/port_of_dover_police" version="RSS2"/>
+    <outline text="Port of Liverpool Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:12 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/port_of_liverpool_police" version="RSS2"/>
+    <outline text="Leicestershire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:13 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/leicestershire_police" version="RSS2"/>
+    <outline text="Northamptonshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:13 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/northamptonshire_police" version="RSS2"/>
+    <outline text="Lincolnshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:13 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lincolnshire_police" version="RSS2"/>
+    <outline text="West Midlands Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:13 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/wmp" version="RSS2"/>
+    <outline text="West Yorkshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:14 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/west_yorkshire_police" version="RSS2"/>
+    <outline text="Humberside Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:14 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/humberside_police" version="RSS2"/>
+    <outline text="Cumbria Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:14 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cumbria_pcp" version="RSS2"/>
+    <outline text="Hampshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:15 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hampshire_pcp" version="RSS2"/>
+    <outline text="Lincolnshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:15 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lincolnshire_pcp" version="RSS2"/>
+    <outline text="Devon and Cornwall Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:15 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/devon_and_cornwall_police" version="RSS2"/>
+    <outline text="Staffordshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:15 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/staffordshire_police" version="RSS2"/>
+    <outline text="Lancashire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:16 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lancashire_pcp" version="RSS2"/>
+    <outline text="North Wales Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:16 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/north_wales_pcp" version="RSS2"/>
+    <outline text="North Yorkshire Police, Fire and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:16 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/north_yorkshire_pcp" version="RSS2"/>
+    <outline text="Wiltshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:16 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/wiltshire_pcp" version="RSS2"/>
+    <outline text="Lancashire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:17 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lancashire_police" version="RSS2"/>
+    <outline text="Essex Police, Fire and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:17 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/essex_pfcc" version="RSS2"/>
+    <outline text="Lothian and Borders Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:17 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lothian_and_borders_police" version="RSS2"/>
+    <outline text="Devon and Cornwall Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:18 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/devon_and_cornwall_pcc" version="RSS2"/>
+    <outline text="Gwent Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:18 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gwent_pcc" version="RSS2"/>
+    <outline text="North Wales Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:18 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/north_wales_pcc" version="RSS2"/>
+    <outline text="South Wales Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:18 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/south_wales_pcc" version="RSS2"/>
+    <outline text="West Mercia Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:19 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/west_mercia_police" version="RSS2"/>
+    <outline text="West Yorkshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:19 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/west_yorkshire_pcp" version="RSS2"/>
+    <outline text="Cambridge University Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:19 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/university_of_cambridge_constabulary" version="RSS2"/>
+    <outline text="Cheshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cheshire_pcc" version="RSS2"/>
+    <outline text="Lincolnshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lincolnshire_pcc" version="RSS2"/>
+    <outline text="Merseyside Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/merseyside_police" version="RSS2"/>
+    <outline text="North Wales Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:20 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/north_wales_police" version="RSS2"/>
+    <outline text="South Yorkshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/syp" version="RSS2"/>
+    <outline text="Essex Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/essex_police" version="RSS2"/>
+    <outline text="Dyfed-Powys Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:21 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/dyfed_powys_pcc" version="RSS2"/>
+    <outline text="Hampshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hampshire_pcc" version="RSS2"/>
+    <outline text="Leicestershire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/leicestershire_pcc" version="RSS2"/>
+    <outline text="Northumbria Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/northumbria_pcc" version="RSS2"/>
+    <outline text="West Yorkshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:22 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/west_yorkshire_pcc" version="RSS2"/>
+    <outline text="Durham Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/durham_pcp" version="RSS2"/>
+    <outline text="Dyfed-Powys Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/dyfed_powys_pcp" version="RSS2"/>
+    <outline text="Leicestershire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/leicestershire_pcp" version="RSS2"/>
+    <outline text="Staffordshire Police, Fire and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:23 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/staffordshire_pcp" version="RSS2"/>
+    <outline text="Cleveland Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cleveland_police" version="RSS2"/>
+    <outline text="Dorset Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/dorset_police" version="RSS2"/>
+    <outline text="Bedfordshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:24 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/bedfordshire_pcp" version="RSS2"/>
+    <outline text="Derbyshire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/derbyshire_police" version="RSS2"/>
+    <outline text="Grampian Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/grampian_police" version="RSS2"/>
+    <outline text="Surrey Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/surrey_pcp" version="RSS2"/>
+    <outline text="Sussex Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:25 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/sussex_pcp" version="RSS2"/>
+    <outline text="West Midlands Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:26 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body//west_midlands_pcp" version="RSS2"/>
+    <outline text="Cambridgeshire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:26 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cambridgeshire_police" version="RSS2"/>
+    <outline text="Tayside Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:26 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/tayside_police" version="RSS2"/>
+    <outline text="North Yorkshire Police, Fire and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:26 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/north_yorkshire_pfcc" version="RSS2"/>
+    <outline text="Police Scotland FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/police_scotland" version="RSS2"/>
+    <outline text="West Midlands Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/west_midlands_pcc" version="RSS2"/>
+    <outline text="Derbyshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/derbyshire_pcc" version="RSS2"/>
+    <outline text="Nottinghamshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:27 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/nottinghamshire_pcc" version="RSS2"/>
+    <outline text="Suffolk Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/suffolk_pcc" version="RSS2"/>
+    <outline text="Kent Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/kent_police" version="RSS2"/>
+    <outline text="Norfolk Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:28 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/norfolk_police" version="RSS2"/>
+    <outline text="Cumbria Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:29 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cumbria_police" version="RSS2"/>
+    <outline text="Gloucestershire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:29 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gloucestershire_pcp" version="RSS2"/>
+    <outline text="Norfolk Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:29 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/norfolk_pcp" version="RSS2"/>
+    <outline text="Warwickshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:29 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/warwickshire_pcp" version="RSS2"/>
+    <outline text="Avon and Somerset Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:30 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/avon_and_somerset_police_and_crime_panel" version="RSS2"/>
+    <outline text="Hertfordshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:30 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hertfordshire_pcp" version="RSS2"/>
+    <outline text="Essex Police, Fire and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:30 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/essex_police_fire_and_crime_panel" version="RSS2"/>
+    <outline text="Gwent Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:30 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gwent_pcp" version="RSS2"/>
+    <outline text="Kent Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:31 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/kent_pcp" version="RSS2"/>
+    <outline text="Suffolk Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:31 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/suffolk_pcp" version="RSS2"/>
+    <outline text="Bedfordshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:31 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/bedfordshire_pcc" version="RSS2"/>
+    <outline text="Surrey Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:32 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/surrey_police" version="RSS2"/>
+    <outline text="Warwickshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:32 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/warwickshire_police" version="RSS2"/>
+    <outline text="Thames Valley Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:32 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/thames_valley_police" version="RSS2"/>
+    <outline text="Nottinghamshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:32 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/nottinghamshire_police" version="RSS2"/>
+    <outline text="Gloucestershire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:33 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/gloucestershire_pcc" version="RSS2"/>
+    <outline text="Thames Valley Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:33 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/thames_valley_pcc" version="RSS2"/>
+    <outline text="Avon and Somerset Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:33 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/avon_and_somerset_pcc" version="RSS2"/>
+    <outline text="Wiltshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:33 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/wiltshire_police" version="RSS2"/>
+    <outline text="Hertfordshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:34 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hertfordshire_pcc" version="RSS2"/>
+    <outline text="Lancashire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:34 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/lancashire_pcc" version="RSS2"/>
+    <outline text="Surrey Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:34 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/surrey_pcc" version="RSS2"/>
+    <outline text="Warwickshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:35 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/warwickshire_pcc" version="RSS2"/>
+    <outline text="South Wales Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:35 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/south_wales_police" version="RSS2"/>
+    <outline text="Dorset Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:35 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/dorset_pcc" version="RSS2"/>
+    <outline text="Norfolk Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:35 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/norfolk_pcc" version="RSS2"/>
+    <outline text="Wiltshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:36 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/wiltshire_pcc" version="RSS2"/>
+    <outline text="Northumbria Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:36 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/northumbria_police" version="RSS2"/>
+    <outline text="Avon and Somerset Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:36 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/avon_and_somerset_police" version="RSS2"/>
+    <outline text="Cambridgeshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:36 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cambridgeshire_pcp" version="RSS2"/>
+    <outline text="Cheshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:37 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cheshire_pcp" version="RSS2"/>
+    <outline text="Derbyshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:37 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/derbyshire_pcp" version="RSS2"/>
+    <outline text="Devon and Cornwall Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:37 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/devon_and_cornwall_pcp" version="RSS2"/>
+    <outline text="Humberside Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:37 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/humberside_pcp" version="RSS2"/>
+    <outline text="Merseyside Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:38 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/merseyside_pcp" version="RSS2"/>
+    <outline text="Nottinghamshire Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:38 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/nottinghamshire_pcp" version="RSS2"/>
+    <outline text="South Wales Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:38 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/south_wales_pcp" version="RSS2"/>
+    <outline text="Thames Valley Police and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:39 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/thames_valley_pcp" version="RSS2"/>
+    <outline text="Durham Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:39 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/durham_police" version="RSS2"/>
+    <outline text="Greater Manchester Police, Fire and Crime Panel FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:39 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/greater_manchester_pcp" version="RSS2"/>
+    <outline text="Cleveland Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:39 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cleveland_pcc" version="RSS2"/>
+    <outline text="North Yorkshire Police FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:40 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/nyp" version="RSS2"/>
+    <outline text="Cambridgeshire Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:40 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cambridgeshire_pcc" version="RSS2"/>
+    <outline text="Humberside Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:40 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/humberside_pcc" version="RSS2"/>
+    <outline text="Cumbria Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:40 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/cumbria_pfcc" version="RSS2"/>
+    <outline text="Kent Police and Crime Commissioner FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:41 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/kent_pcc" version="RSS2"/>
+    <outline text="Hertfordshire Constabulary FOI Disclosures" type="rss" created="Wed, 04 Oct 2023 21:29:41 -0000" xmlUrl="https://www.whatdotheyknow.com/feed/body/hertfordshire_police" version="RSS2"/>
   </body>
 </opml>

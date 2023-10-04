@@ -3,6 +3,7 @@ import json
 import sys
 import requests
 from datetime import datetime
+import csv
 
 # TODO: Non-Home Office forces
 # TODO: Get Disclosure Log URLs
@@ -10,15 +11,13 @@ from datetime import datetime
 from opml import OpmlDocument
 
 document = OpmlDocument(
-    title='United Kingdom Police Forces and Associated Bodies',
+    title='United Kingdom Home Office (Territorial) Police Forces and Associated Bodies',
     owner_name='Mike Johnson',
     owner_email='mdj.uk@pm.me'
 )
 
 
-def process_one_file(json_file_name):
-    fh = open(json_file_name, 'r')
-    imported_json = json.load(fh)
+def print_header():
     print("# Generated List of Police Forces (WikiData/WhatDoTheyKnow)")
     print("*This list of Home Office (Territorial) Forces and does not yet include certain forces*")
     print("\n")
@@ -27,7 +26,29 @@ def process_one_file(json_file_name):
 
     print("|Organisation Name|Website|WDTK Org Page|WDTK JSON|Atom Feed|JSON Feed|Publication Scheme|")
     print("|-|-|-|-|-|-|-|")
+
+
+
+def process_one_csv_file(csv_file_name):
+    rows = []
+    # reading csv file
+    with open(csv_file_name, 'r') as csvfile:
+        # creating a csv reader object
+        csvreader = csv.reader(csvfile)
+        # extracting each data row one by one
+        for row in csvreader:
+            rows.append(row)
+
+    for row in rows:
+        print(row[1], row[0])
+
+
+def process_one_json_file(json_file_name):
+    fh = open(json_file_name, 'r')
+    imported_json = json.load(fh)
+
     results = []
+    print_header()
     for item in imported_json:
         name_of_org = str(item['itemLabel'])
         url = str(item['website'])
@@ -56,6 +77,7 @@ def process_one_file(json_file_name):
         )
 
     document.dump('police.opml', pretty=True)
+
     results.sort()
     for i in results:
         print(i)
@@ -68,4 +90,5 @@ def process_one_file(json_file_name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     for filename in sys.argv[1:]:
-        process_one_file(filename)
+        process_one_json_file(filename)
+        # process_one_csv_file(filename)
