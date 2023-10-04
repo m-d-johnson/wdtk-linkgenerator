@@ -6,6 +6,7 @@ def process_one_file(json_file_name):
     fh = open(json_file_name, 'r')
     imported_json = json.load(fh)
     print("# Generated List of Police Forces (WikiData/WhatDoTheyKnow)")
+    print("*This list of of Home Office (Territorial) Forces and does not yet include certain forces*")
     print("\n")
     print("|force|website|wdtk|wdtk-json|atom|json|")
     print("|-|-|-|-|-|-|")
