@@ -20,7 +20,7 @@ document = OpmlDocument(
 
 def print_header():
     print("# Generated List of Police Forces (WikiData/WhatDoTheyKnow)")
-    print("*This list of Home Office (Territorial) Forces and does not yet include certain forces*")
+    print("*This list may not yet include certain forces*")
     print("\n")
     print("[OPML File Available](https://github.com/m-d-johnson/wdtk-linkgenerator/blob/master/police.opml)")
     print("\n")
