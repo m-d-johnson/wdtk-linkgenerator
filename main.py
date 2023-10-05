@@ -4,6 +4,46 @@ import sys
 import requests
 from datetime import datetime
 import csv
+from mysoc_dataset import get_dataset_url, get_dataset_df
+import pandas as pd
+
+
+def get_dataset():
+    # get the url of dataset
+    url = get_dataset_url(
+        repo_name="wdtk_authorities_list",
+        package_name="whatdotheyknow_authorities_dataset",
+        version_name="latest",
+        file_name="authorities.csv",
+    )
+
+    # # get a pandas dataframe
+    # df = get_dataset_df(
+    #     repo_name="wdtk_authorities_list",
+    #     package_name="whatdotheyknow_authorities_dataset",
+    #     version_name="latest",
+    #     file_name="authorities.parquet",
+    # )
+    r = requests.get(url)
+    open('authorities.csv', 'wb').write(r.content)
+
+    with open('authorities.csv', 'rt', encoding="utf8") as csvfile:
+        data = pd.read_csv(csvfile)
+        org_dataset = data.to_dict('records')
+
+    for org in org_dataset:
+        # id,               name,       short-name,
+        # tags,             home-page,  publication-scheme
+        # disclosure-log,   notes,      created-at
+        # updated-at,       version,    defunct
+        # categories,       url-name,   top-level-categories
+        #                               single-top-level-category
+        name = org['name']
+        home_page = str(org['home-page'])
+        url_name = org['url-name']
+        disclosure_log = str(org['disclosure-log'])
+        print(name, home_page, url_name, disclosure_log)
+
 
 # TODO: Non-Home Office forces: MDP, BTP, CNC, etc
 # TODO: Get Disclosure Log URLs: Need to talk to MyDemocracy
@@ -132,4 +172,5 @@ def process_one_json_file(json_file_name):
 if __name__ == '__main__':
     for filename in sys.argv[1:]:
         # process_one_json_file(filename)
-        process_one_csv_file(filename)
+        # process_one_csv_file(filename)
+        get_dataset()

@@ -1,2 +1,3 @@
 requests~=2.31.0
 opml~=0.5
+mysoc_dataset
