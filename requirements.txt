@@ -1,3 +1,6 @@
 requests~=2.31.0
 opml~=0.5
 mysoc_dataset
+pandas~=2.0.3
+SPARQLWrapper~=2.0.0
+mdformat~=0.7.17
