@@ -11,9 +11,13 @@ import requests
 from mysoc_dataset import get_dataset_url
 from opml import OpmlDocument
 
+import lookup.sparql.police
+
 # TODO: Non-Home Office forces: MDP, BTP, CNC, etc
-# TODO: Get Disclosure Log URLs: Need to talk to MyDemocracy
+# - Partially done - querying from CSV file works but wikidata queries need work
+# TODO: Get Disclosure Log URLs: Have Emailed MyDemocracy
 # TODO: Reduce the replication in this script.
+# - Doing this ad-hoc while I decide whether to maintain this or refactor it
 
 
 document: OpmlDocument = OpmlDocument(
@@ -22,7 +26,7 @@ document: OpmlDocument = OpmlDocument(
     owner_email='mdj.uk@pm.me')
 
 # Prepare a file to use for the generated output
-markdown_output_file = open('overview.md', 'wt')
+markdown_output_file = open('output/overview.md', 'wt')
 
 
 def get_csv_dataset():
@@ -147,20 +151,20 @@ def process_one_json_file(json_file_name):
 
 
 def cleanup(retain):
-    document.dump('police.opml', pretty=True)
-    filepath = pathlib.Path("overview.md")
+    document.dump('output/police.opml', pretty=True)
+    filepath = pathlib.Path("output/overview.md")
     mdformat.file(filepath)
 
-    if os.path.exists("authorities.csv") and retain is True:
+    if os.path.exists("output/authorities.csv") and retain is True:
         print("Not deleting the authorities file")
-    elif os.path.exists("authorities.csv") and retain is False:
-        os.remove("authorities.csv")
+    elif os.path.exists("output/authorities.csv") and retain is False:
+        os.remove("output/authorities.csv")
     else:
         print("The WDTK CSV file does not exist, so could not be deleted.")
 
     if os.path.exists('out.md'):
         os.unlink('out.md')
-    os.link('overview.md', 'out.md')
+    os.link('output/overview.md', 'output/out.md')
 
 
 if __name__ == '__main__':
@@ -169,13 +173,20 @@ if __name__ == '__main__':
                         dest='mode',
                         choices=['csv', 'json'],
                         default='csv',
-                        action='store')
+                        action='store',
+                        help='Specify the source data format.')
     parser.add_argument('-j',
                         dest='jsonfile',
-                        action='store')
+                        action='store',
+                        help='Name of the JSON input file.')
     parser.add_argument('-r', '--retain',
                         action='store_true',
-                        dest='retain', default=False)
+                        dest='retain', default=False,
+                        help='Keep the authorities file from MySociety.')
+    parser.add_argument('-w', '--wikidata',
+                        action='store_true',
+                        dest='wikidata', default=False,
+                        help='Get a listing of local forces from wikidata.')
     args = parser.parse_args()
 
     if args.mode == 'json' and args.jsonfile != '':
@@ -188,6 +199,8 @@ if __name__ == '__main__':
         # hardcoded file path below and a file checked into the git repository.
         get_csv_dataset()
         process_one_csv_file('data/wdtk-police.csv')
+    if args.wikidata:
+        lookup.sparql.police.get_local_police_forces_wikidata()
     markdown_output_file.close()
 
     cleanup(args.retain)
