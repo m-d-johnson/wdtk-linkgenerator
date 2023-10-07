@@ -1,9 +1,9 @@
+import argparse
 import csv
 import datetime
 import json
 import os
 import pathlib
-import sys
 from datetime import datetime
 
 import mdformat
@@ -30,7 +30,8 @@ def get_csv_dataset():
     url = get_dataset_url(repo_name="wdtk_authorities_list",
                           package_name="whatdotheyknow_authorities_dataset",
                           version_name="latest",
-                          file_name="authorities.csv", )
+                          file_name="authorities.csv",
+                          done_survey=True)
     r = requests.get(url)
     open('authorities.csv', 'wb').write(r.content)
 
@@ -145,20 +146,48 @@ def process_one_json_file(json_file_name):
         markdown_output_file.write(str(i))
 
 
-if __name__ == '__main__':
-    filename = sys.argv[1]
-    if filename.endswith('.json'):
-        process_one_json_file(filename)
-    elif filename.endswith('.csv'):
-        get_csv_dataset()
-        process_one_csv_file(filename)
-
-    markdown_output_file.close()
+def cleanup(retain):
     document.dump('police.opml', pretty=True)
     filepath = pathlib.Path("overview.md")
     mdformat.file(filepath)
-    if os.path.exists("authorities.csv"):
+
+    if os.path.exists("authorities.csv") and retain is True:
+        print("Not deleting the authorities file")
+    elif os.path.exists("authorities.csv") and retain is False:
         os.remove("authorities.csv")
     else:
         print("The WDTK CSV file does not exist, so could not be deleted.")
+
+    if os.path.exists('out.md'):
+        os.unlink('out.md')
     os.link('overview.md', 'out.md')
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Generate overview of police forces.')
+    parser.add_argument('--mode',
+                        dest='mode',
+                        choices=['csv', 'json'],
+                        default='csv',
+                        action='store')
+    parser.add_argument('-j',
+                        dest='jsonfile',
+                        action='store')
+    parser.add_argument('-r', '--retain',
+                        action='store_true',
+                        dest='retain', default=False)
+    args = parser.parse_args()
+
+    if args.mode == 'json' and args.jsonfile != '':
+        print("JSON mode selected")
+        process_one_json_file(args.jsonfile)
+    elif args.mode == 'csv':
+        print("CSV mode selected")
+        # NB. While it looks like this script should download a file from WDTK
+        # and use that as input, it doesn't yet do this. That's why there's a
+        # hardcoded file path below and a file checked into the git repository.
+        get_csv_dataset()
+        process_one_csv_file('data/wdtk-police.csv')
+    markdown_output_file.close()
+
+    cleanup(args.retain)
