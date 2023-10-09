@@ -22,6 +22,11 @@ import make_dataset
 # TODO: Reduce the replication in this script.
 # - Doing this ad-hoc while I decide whether to maintain this or refactor it
 
+"""
+This script is intended to do the following:
+
+- 
+"""
 
 document: OpmlDocument = OpmlDocument(
     title='United Kingdom Police Forces and Associated Bodies',
@@ -55,6 +60,13 @@ def generate_header():
     body += "*them with corrections. The table below will then be corrected when the script is next run.* \n\n"
     body += "[OPML File Available](https://github.com/m-d-johnson/wdtk-linkgenerator/blob/master/police.opml) \n\n"
     body += "|Organisation Name|Website|WDTK Org Page|WDTK JSON|Atom Feed|JSON Feed|Publication Scheme|FOI Email| \n"
+    body += "Police authorities in England and Wales were abolished in November 2012, and replaced with directly \n"
+    body += "elected police and crime commissioners, and those in Scotland were merged in April 2013 to form the \n"
+    body += "Scottish Police Authority as part of the creation of Police Scotland, the single police force for \n"
+    body += "Scotland. The Police Service of Northern Ireland is overseen by the Northern Ireland Policing Board, \n"
+    body += "and two of the three UK-wide special police forces continue to be overseen by individual police \n"
+    body += "authorities. The oversight of the two police forces serving London continues to be implemented via \n"
+    body += "unique arrangements.\n\n"
     body += "|-|-|-|-|-|-|-|-| "
     return body
 
@@ -100,10 +112,10 @@ def make_table_from_generated_dataset():
         entry += f"[Website]({force['Home_Page_URL']})|"
         entry += f"[wdtk page]({force['WDTK_Org_Page_URL']})|"
         entry += f"[wdtk json]({force['WDTK_Org_JSON_URL']})|"
-        entry += f"[wdtk atom feed]({force['WDTK_Atom_Feed_URL']})|"
-        entry += f"[wdtk json feed]({force['WDTK_JSON_Feed_URL']})|"
-        entry += f"[Publication Scheme]({force['Publication_Scheme_URL']})|"
-        entry += f"[FOI Email](mailto:{force['FOI_Email_Address']})|"
+        entry += f"[tom feed]({force['WDTK_Atom_Feed_URL']})|"
+        entry += f"[json feed]({force['WDTK_JSON_Feed_URL']})|"
+        entry += f"[Link]({force['Publication_Scheme_URL']})|"
+        entry += f"[Email](mailto:{force['FOI_Email_Address']})|"
         entry += "\n"
 
         results.append(entry)
