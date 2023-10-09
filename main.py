@@ -1,10 +1,14 @@
 import argparse
 import csv
 import datetime
+import encodings
 import json
 import os
 import pathlib
+import pprint
+import re
 from datetime import datetime
+import make_dataset
 
 import mdformat
 import requests
@@ -18,6 +22,7 @@ import lookup.sparql.police
 # TODO: Get Disclosure Log URLs: Have Emailed MyDemocracy
 # TODO: Reduce the replication in this script.
 # - Doing this ad-hoc while I decide whether to maintain this or refactor it
+
 
 
 document: OpmlDocument = OpmlDocument(
@@ -36,8 +41,13 @@ def get_csv_dataset():
                           version_name="latest",
                           file_name="authorities.csv",
                           done_survey=True)
+    if args.devmode:
+        print(url)
+
     r = requests.get(url)
-    open('authorities.csv', 'wb').write(r.content)
+    tmpfile = open('authorities.csv', 'wb')
+    tmpfile.write(r.content)
+    tmpfile.close()
 
 
 def generate_header():
@@ -49,6 +59,36 @@ def generate_header():
     body += "|Organisation Name|Website|WDTK Org Page|WDTK JSON|Atom Feed|JSON Feed|Publication Scheme| \n"
     body += "|-|-|-|-|-|-|-| "
     return body
+
+
+def process_mysociety_dataset():
+    # Open CSV file and read it into the list of rows
+    print("Process mysociety dataset")
+    rows = []
+    with open('authorities.csv', 'r', encoding='utf-8') as csvfile:
+        csvreader = csv.reader(csvfile)
+        for row in csvreader:
+            rows.append(row)
+
+        all_orgs = open("all.md", "w", encoding="utf-8")
+        all_orgs.write(f"|Long Name|Short Name|Tags|")
+        all_orgs.write(f"\n")
+        #all_orgs.write("|-|-|-|")
+    for row in rows:
+        tags_list = re.split(r"\|", row[4])
+        long_name = row[1]
+        short_name = row[3]
+        tags_list_flattened = str(tags_list)
+        all_orgs.write(f"|{long_name}|{short_name}|{tags_list_flattened}|")
+
+        # for i in tags_list:
+        #     print(i)
+        # print(tags_list[1])
+
+    # id,           name,               short-name,         url-name,     tags
+    # home-page,    publication-scheme, disclosure-log,     notes,
+    # created-at,   updated-at,         version,            defunct,
+    # categories,   top-level-categories,   single-top-level-category
 
 
 def process_one_csv_file(csv_file_name):
@@ -187,6 +227,10 @@ if __name__ == '__main__':
                         action='store_true',
                         dest='wikidata', default=False,
                         help='Get a listing of local forces from wikidata.')
+    parser.add_argument('-x', '--devmode',
+                        action='store_true',
+                        dest='devmode', default=False,
+                        help='Run code in development.')
     args = parser.parse_args()
 
     if args.mode == 'json' and args.jsonfile != '':
@@ -201,6 +245,30 @@ if __name__ == '__main__':
         process_one_csv_file('data/wdtk-police.csv')
     if args.wikidata:
         lookup.sparql.police.get_local_police_forces_wikidata()
-    markdown_output_file.close()
 
-    cleanup(args.retain)
+    if args.devmode:
+        print("Dev mode")
+        get_csv_dataset()
+        process_mysociety_dataset()
+        markdown_output_file.close()
+        cleanup(args.retain)
+
+    # markdown_output_file.close()
+    # cleanup(args.retain)
+
+
+
+
+
+
+
+from bs4 import BeautifulSoup
+import requests
+url = "https://en.wikipedia.org/wiki/Algorithm"
+req = requests.get(url)
+soup = BeautifulSoup(req.text, "html.parser")
+print("The href links are :")
+for link in soup.find_all('a'):
+   print(link.get('href'))
+
+   
