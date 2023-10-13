@@ -7,11 +7,12 @@ import pathlib
 import re
 import sys
 from datetime import datetime
-from tabulate import tabulate
+
 import mdformat
 import requests
 from mysoc_dataset import get_dataset_url
 from opml import OpmlDocument
+from tabulate import tabulate
 
 import lookup.sparql.police
 import make_dataset
