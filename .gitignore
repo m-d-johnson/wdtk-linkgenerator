@@ -2,3 +2,5 @@ data/whatdotheyknow_authorities_dataset.xlsx
 authorities.csv
 .vagrant/
 authorities.csv
+__pycache__
+lookup/sparql/__pycache__/
