@@ -16,6 +16,7 @@ class PoliceOrganisation:
         wdtk_data = requests.get(self.WDTK_Org_JSON_URL).json()
         self.Name = wdtk_data["name"]
         self.WDTK_ID = wdtk_id
+        self.Is_Defunct = False
         self.Home_Page_URL = wdtk_data["home_page"]
         self.WDTK_Org_Page_URL = f"https://www.whatdotheyknow.com/body/{wdtk_id}"
         self.WDTK_Atom_Feed_URL = f"https://www.whatdotheyknow.com/feed/body/{wdtk_id}"
@@ -32,6 +33,8 @@ class PoliceOrganisation:
                 self.WikiData_Identifier = tag[1]
             if tag[0] == "lcnaf":
                 self.LoC_Authority_ID = tag[1]
+            if tag[0] == "defunct":
+                self.Is_Defunct = True
 
         soupreq = requests.get(self.WDTK_Org_Page_URL)
         soup = BeautifulSoup(soupreq.text, "html.parser")
