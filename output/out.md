@@ -1,8 +1,8 @@
 # Generated List of Police Forces (WikiData/WhatDoTheyKnow)
 
-*Depending on the sources from which it was generated, this list may not include certain forces*
-*It is generated from data provided by WhatDoTheyKnow. If there are inaccuracies, please contact*
-*them with corrections. The table below will then be corrected when the script is next run.*
+**Depending on the sources from which it was generated, this list may not include certain forces**
+**It is generated from data provided by WhatDoTheyKnow. If there are inaccuracies, please contact**
+**them with corrections. The table below will then be corrected when the script is next run.**
 
 [OPML File Available](https://github.com/m-d-johnson/wdtk-linkgenerator/blob/master/police.opml)
 

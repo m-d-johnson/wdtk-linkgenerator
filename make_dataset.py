@@ -4,7 +4,6 @@ from policeorganisation import PoliceOrganisation
 
 def rebuild_dataset():
     emails = json.load(open("data/foi-emails.json", "r"))
-
     list_of_forces = []
 
     for entry in emails:

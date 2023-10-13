@@ -50,9 +50,9 @@ def get_csv_dataset_from_mysociety():
 
 def generate_header():
     body = "# Generated List of Police Forces (WikiData/WhatDoTheyKnow) \n\n"
-    body += "*Depending on the sources from which it was generated, this list may not include certain forces* \n"
-    body += "*It is generated from data provided by WhatDoTheyKnow. If there are inaccuracies, please contact* \n"
-    body += "*them with corrections. The table below will then be corrected when the script is next run.* \n\n"
+    body += "**Depending on the sources from which it was generated, this list may not include certain forces** \n"
+    body += "**It is generated from data provided by WhatDoTheyKnow. If there are inaccuracies, please contact** \n"
+    body += "**them with corrections. The table below will then be corrected when the script is next run.** \n\n"
     body += "[OPML File Available](https://github.com/m-d-johnson/wdtk-linkgenerator/blob/master/police.opml) \n\n"
     body += "|Organisation Name|Website|WDTK Org Page|WDTK JSON|Atom Feed|JSON Feed|Publication Scheme|FOI Email| \n"
     body += "|-|-|-|-|-|-|-|-| "
