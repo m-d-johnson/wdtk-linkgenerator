@@ -1,5 +1,6 @@
 requests~=2.31.0
 opml~=0.5
+pyopml
 SPARQLWrapper~=2.0.0
 mdformat~=0.7.17
 bs4~=0.0.1
