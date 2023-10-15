@@ -1,22 +1,35 @@
-# Generated List of Police Forces (WikiData/WhatDoTheyKnow)
+```
+# Generated List of Police Forces (WikiData/WhatDoTheyKnow) 
 
-**Depending on the sources from which it was generated, this list may not include certain forces**
-**It is generated from data provided by WhatDoTheyKnow. If there are inaccuracies, please contact**
-**them with corrections. The table below will then be corrected when the script is next run.**
 
-[OPML File Available](https://github.com/m-d-johnson/wdtk-linkgenerator/blob/master/police.opml)
 
-Police authorities in England and Wales were abolished in November 2012, and replaced with directly
-elected police and crime commissioners, and those in Scotland were merged in April 2013 to form the
-Scottish Police Authority as part of the creation of Police Scotland, the single police force for
-Scotland. The Police Service of Northern Ireland is overseen by the Northern Ireland Policing Board,
-and two of the three UK-wide special police forces continue to be overseen by individual police
-authorities. The oversight of the two police forces serving London continues to be implemented via
-unique arrangements.
+**This list is generated from data provided by WhatDoTheyKnow.**
+**If there are inaccuracies, please contact with corrections.**
+**This table will then be corrected when the script next runs**
 
-|Organisation Name|Website|WDTK Org Page|WDTK JSON|Atom Feed|JSON Feed|Publication Scheme|FOI Email|
+[OPML File]("https://github.com/m-d-johnson/wdtk-linkgenerator/blob
+/master/police.opml)
+
+
+Police authorities in England and Wales were abolished in November 2012, 
+and 
+replaced with directly elected police and crime commissioners. Those in 
+Scotland
+were merged in April 2013 to form the Scottish Police Authority as part 
+of the
+creation of Police Scotland, the single police force for Scotland.
+The Police Service of Northern Ireland is overseen by the Northern Ireland 
+Policing Board, and two of the three UK-wide UK-wide special police forces 
+continue to be overseen by individual police authorities. Oversight of 
+the two
+police forces serving London continues to be implemented via other 
+arrangements.
+
+|Body|Website|WDTK Page|JSON|Feed: Atom|Feed: JSON|Publication Scheme|Email|
 |-|-|-|-|-|-|-|-|
-|Association of Police and Crime Commissioners | [Website](http://www.apccs.police.uk/)|[wdtk page](https://www.whatdotheyknow.com/body/apcc)|[wdtk json](https://www.whatdotheyknow.com/body/apcc.json)|[atom feed](https://www.whatdotheyknow.com/feed/body/apcc)|[json feed](https://www.whatdotheyknow.com/feed/body/apcc.json)|[Link](<>)|[Email](mailto:association_of_police_authorities)|
+|Association of Police and Crime Commissioners | [Website](http://www.apccs.police.uk/)|[wdtk page](https://www.whatdotheyknow.com/body/apcc)|[wdtk json](https://www.whatdotheyknow.com/body/apcc.json)|[atom feed](https://www.whatdotheyknow.com/feed/body/apcc)|[json feed](https://www.whatdotheyknow.com/feed/body/apcc.json)|[Link]()|[Email](mailto:association_of_police_authorities)|
+```
+
 |Avon and Somerset Constabulary | [Website](https://www.avonandsomerset.police.uk)|[wdtk page](https://www.whatdotheyknow.com/body/avon_and_somerset_police)|[wdtk json](https://www.whatdotheyknow.com/body/avon_and_somerset_police.json)|[atom feed](https://www.whatdotheyknow.com/feed/body/avon_and_somerset_police)|[json feed](https://www.whatdotheyknow.com/feed/body/avon_and_somerset_police.json)|[Link](<>)|[Email](mailto:FOIREQUESTS@avonandsomerset.police.uk)|
 |Avon and Somerset Police and Crime Commissioner | [Website](http://www.avonandsomerset-pcc.gov.uk)|[wdtk page](https://www.whatdotheyknow.com/body/avon_and_somerset_pcc)|[wdtk json](https://www.whatdotheyknow.com/body/avon_and_somerset_pcc.json)|[atom feed](https://www.whatdotheyknow.com/feed/body/avon_and_somerset_pcc)|[json feed](https://www.whatdotheyknow.com/feed/body/avon_and_somerset_pcc.json)|[Link](https://www.avonandsomerset-pcc.gov.uk/Document-Library/TERM-TWO/Policies-Procedures/Publication-Scheme-website-publication-guide-updated-August-2017.pdf)|[Email](mailto:pcc@avonandsomerset.pnn.police.uk)|
 |Avon and Somerset Police and Crime Panel | [Website](http://www.bristol.gov.uk/page/council-and-democracy/avon-and-somerset-police-and-crime-panel)|[wdtk page](https://www.whatdotheyknow.com/body/avon_and_somerset_police_and_crime_panel)|[wdtk json](https://www.whatdotheyknow.com/body/avon_and_somerset_police_and_crime_panel.json)|[atom feed](https://www.whatdotheyknow.com/feed/body/avon_and_somerset_police_and_crime_panel)|[json feed](https://www.whatdotheyknow.com/feed/body/avon_and_somerset_police_and_crime_panel.json)|[Link](<>)|[Email](mailto:pcpanel@bristol.gov.uk)|
