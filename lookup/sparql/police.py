@@ -3,7 +3,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 
 
 def get_local_police_forces_wikidata():
-    """Query WikiData for police forces and generate a CSV file from the results."""
+    """Query WikiData for police forces, generate a CSV file of results."""
     # UK Local Police Forces
     sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
     sparql.setQuery("""
@@ -36,5 +36,3 @@ def get_local_police_forces_wikidata():
 
     output_file.close()
 
-
-get_local_police_forces_wikidata()

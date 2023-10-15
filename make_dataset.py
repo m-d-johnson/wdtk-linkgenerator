@@ -5,7 +5,8 @@ from policeorganisation import PoliceOrganisation
 def rebuild_dataset():
     # Generates a JSON dataset from two pieces of information - the WDTK ID and
     # the list of FOI email addresses. The rest of the information can be either
-    # derived from the WDTK ID or scraped using the WDTK ID.
+    # derived from the WDTK ID or scraped using the WDTK ID when the object is
+    # created.
     emails = json.load(open("data/foi-emails.json", "r"))
     list_of_forces = []
     for entry in emails:
