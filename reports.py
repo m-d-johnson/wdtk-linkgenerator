@@ -94,7 +94,7 @@ def generate_problem_reports():
     report_markdown_file.write("\n\n")
 
     # 3: Missing Pubscheme URL but Disclosure Log present
-    report_markdown_file.write("## Report on missing Pubscheme fields\n\n")
+    report_markdown_file.write("## Missing Pubscheme fields\n\n")
     report_markdown_file.write("|Name|Org Page|Email|\n")
     report_markdown_file.write("|-|-|-|\n")
     for force in dataset:
