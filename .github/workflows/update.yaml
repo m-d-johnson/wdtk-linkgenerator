@@ -21,7 +21,7 @@ jobs:
       - name: Update Tables
         run: python main.py --refresh
 
-      - name: Update graphs
+      - name: Commit Results to Repository
         run: |
           git config --global user.name 'Mike Johnson'
           git config --global user.email 'm-d-johnson@users.noreply.github.com'
