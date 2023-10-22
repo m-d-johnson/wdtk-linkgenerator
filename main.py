@@ -47,7 +47,7 @@ def get_csv_dataset_from_mysociety():
 
 def generate_header():
     body = "# Generated List of Police Forces (WhatDoTheyKnow)\n\n\n"
-    body += "**Generated from data provided by WhatDoTheyKnow. please contact\n"
+    body += "**Generated from data provided by WhatDoTheyKnow. Please contact\n"
     body += "them with corrections. This table will be corrected when the "
     body += "script next runs.**\n\n"
     body += "[OPML File](police.opml)\n\n"
