@@ -1,0 +1,144 @@
+1: Association of Police and Crime Commissioners is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/apcc
+1: Avon and Somerset Constabulary is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/avon_and_somerset_police
+1: Avon and Somerset Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/avon_and_somerset_police_and_crime_panel
+1: Bedfordshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/bedfordshire_pcp
+1: Bedfordshire Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/bedfordshire_police
+1: Belfast Harbour Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/bhp
+1: Belfast International Airport Constabulary is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/belfast_international_airport_constabulary
+1: British Transport Police Authority is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/british_transport_police_authority
+1: British Transport Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/btp
+1: Cambridgeshire Constabulary is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/cambridgeshire_police
+1: Cambridgeshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/cambridgeshire_pcp
+1: Cheshire Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/cheshire_pcc
+1: City of London Police Authority is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/city_of_london_police_authority
+1: Cleveland Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/cleveland_pcc
+1: Cleveland Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/cleveland_pcp
+1: College of Policing Limited is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/college_of_policing
+1: Cumbria Constabulary is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/cumbria_police
+1: Cumbria Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/cumbria_pcp
+1: Derbyshire Constabulary is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/derbyshire_police
+1: Derbyshire Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/derbyshire_pcc
+1: Derbyshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/derbyshire_pcp
+1: Devon and Cornwall Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/devon_and_cornwall_pcp
+1: Dorset Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/dorset_pcc
+1: Dorset Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/dorset_pcp
+1: Dorset Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/dorset_police
+1: Durham Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/durham_pcc
+1: Durham Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/durham_pcp
+1: Dyfed-Powys Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/dyfed_powys_pcp
+1: Essex Police, Fire and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/essex_pfcc
+1: Essex Police, Fire and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/essex_police_fire_and_crime_panel
+1: Essex Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/essex_police
+1: Falmouth Docks Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/falmouth_docks_police
+1: Gloucestershire Constabulary is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/gloucestershire_police
+1: Gloucestershire Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/gloucestershire_pcc
+1: Gloucestershire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/gloucestershire_pcp
+1: Gwent Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/gwent_pcp
+1: Gwent Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/gwent_police
+1: Hampshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/hampshire_pcp
+1: Hertfordshire Constabulary is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/hertfordshire_police
+1: Hertfordshire Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/hertfordshire_pcc
+1: Hertfordshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/hertfordshire_pcp
+1: HM Inspector of Constabulary for Scotland is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/hm_inspector_of_constabulary_for_scotland
+1: HM Inspectorate of Constabulary and Fire & Rescue Services is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/hmicfrs
+1: Humberside Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/humberside_pcp
+1: Humberside Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/humberside_police
+1: International Policing Assistance Board is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/ipab
+1: Kent Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/kent_pcc
+1: Kent Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/kent_pcp
+1: Kent Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/kent_police
+1: Lancashire Constabulary is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/lancashire_police
+1: Lancashire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/lancashire_pcp
+1: Leicestershire Constabulary is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/leicestershire_police
+1: Leicestershire Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/leicestershire_pcc
+1: Leicestershire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/leicestershire_pcp
+1: Lincolnshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/lincolnshire_pcp
+1: Mayor's Office for Policing and Crime is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/mopac
+1: Merseyside Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/merseyside_pcp
+1: Ministry of Defence Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/mdp
+1: National Police Air Service is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/npas
+1: Norfolk Constabulary is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/norfolk_police
+1: Norfolk Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/norfolk_pcp
+1: North Wales Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/north_wales_pcp
+1: North Wales Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/north_wales_police
+1: North Yorkshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/north_yorkshire_pcp
+1: Northamptonshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/northamptonshire_pcp
+1: Northamptonshire Police, Fire and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/northamptonshire_pcc
+1: Northamptonshire Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/northamptonshire_police
+1: Northern Ireland Police Fund is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/northern_ireland_police_fund
+1: Northern Ireland Policing Board is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/northern_ireland_policing_board
+1: Northumbria Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/northumbria_pcc
+1: Northumbria Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/northumbria_pcp
+1: Nottinghamshire Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/nottinghamshire_pcc
+1: Nottinghamshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/nottinghamshire_pcp
+1: Police Advisory Board for England and Wales is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/police_advisory_board_for_england_and_wales
+1: Police Service of Northern Ireland is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/psni
+1: Port of Bristol Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/port_of_bristol_police
+1: Port of Felixstowe Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/port_of_felixstowe_police
+1: Port of Liverpool Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/port_of_liverpool_police
+1: Port of Portland Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/port_of_portland_police
+1: Port of Tilbury London Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/port_of_tilbury_london_police
+1: Royal Ulster Constabulary George Cross Foundation is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/rucgcf
+1: South Wales Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/south_wales_pcp
+1: South Yorkshire Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/south_yorkshire_pcc
+1: South Yorkshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/south_yorkshire_pcp
+1: Staffordshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/staffordshire_pcp
+1: Staffordshire Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/staffordshire_police
+1: Suffolk Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/suffolk_pcc
+1: Suffolk Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/suffolk_pcp
+1: Surrey Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/surrey_pcp
+1: Sussex Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/sussex_pcp
+1: Sussex Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/sussex_police
+1: Tees and Hartlepool Harbour Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/tees_and_hartlepool_harbour_police
+1: Thames Valley Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/thames_valley_pcp
+1: The Police Federation of England and Wales is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/police_federation
+1: The Police ICT Company Limited is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/the_police_ict_company_limited
+1: UK Football Policing Unit is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/ukfpu
+1: UK National Wildlife Crime Unit is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/nwcu
+1: University of Cambridge Constabulary is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/university_of_cambridge_constabulary
+1: Warwickshire Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/warwickshire_pcc
+1: Warwickshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/warwickshire_pcp
+1: Warwickshire Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/warwickshire_police
+1: West Mercia Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/west_mercia_pcc
+1: West Mercia Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/west_mercia_pcp
+1: West Midlands Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/west_midlands_pcp
+1: West Midlands Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/wmp
+1: West Yorkshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/west_yorkshire_pcp
+1: Wiltshire Police and Crime Commissioner is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/wiltshire_pcc
+1: Wiltshire Police and Crime Panel is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/wiltshire_pcp
+1: York Minster Police is missing Publication Scheme URLs https://www.whatdotheyknow.com/body/york_minster_police
+2: Cambridgeshire Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/cambridgeshire_pcc
+2: Cheshire Constabulary is missing Disclosure Log https://www.whatdotheyknow.com/body/cheshire_police
+2: Cheshire Police and Crime Panel is missing Disclosure Log https://www.whatdotheyknow.com/body/cheshire_pcp
+2: City of London Police is missing Disclosure Log https://www.whatdotheyknow.com/body/city_of_london_police
+2: Civil Nuclear Constabulary is missing Disclosure Log https://www.whatdotheyknow.com/body/cnc
+2: Civil Nuclear Police Authority is missing Disclosure Log https://www.whatdotheyknow.com/body/cnpa
+2: Cumbria Police, Fire and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/cumbria_pfcc
+2: Devon and Cornwall Constabulary is missing Disclosure Log https://www.whatdotheyknow.com/body/devon_and_cornwall_police
+2: Devon and Cornwall Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/devon_and_cornwall_pcc
+2: Dyfed-Powys Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/dyfed_powys_pcc
+2: Greater Manchester Police is missing Disclosure Log https://www.whatdotheyknow.com/body/gmp
+2: Gwent Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/gwent_pcc
+2: Hampshire and Isle of Wight Constabulary is missing Disclosure Log https://www.whatdotheyknow.com/body/hampshire_police
+2: Lancashire Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/lancashire_pcc
+2: Lincolnshire Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/lincolnshire_pcc
+2: Lincolnshire Police is missing Disclosure Log https://www.whatdotheyknow.com/body/lincolnshire_police
+2: Merseyside Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/merseyside_pcc
+2: Merseyside Police is missing Disclosure Log https://www.whatdotheyknow.com/body/merseyside_police
+2: National Crime Agency is missing Disclosure Log https://www.whatdotheyknow.com/body/nca
+2: Norfolk Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/norfolk_pcc
+2: North Wales Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/north_wales_pcc
+2: North Yorkshire Police is missing Disclosure Log https://www.whatdotheyknow.com/body/nyp
+2: Northumbria Police is missing Disclosure Log https://www.whatdotheyknow.com/body/northumbria_police
+2: Police Investigations and Review Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/pirc
+2: Port of Dover Police is missing Disclosure Log https://www.whatdotheyknow.com/body/port_of_dover_police
+2: Staffordshire Police, Fire and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/staffordshire_pfcc
+2: Surrey Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/surrey_pcc
+2: Sussex Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/sussex_pcc
+2: Thames Valley Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/thames_valley_pcc
+2: Thames Valley Police is missing Disclosure Log https://www.whatdotheyknow.com/body/thames_valley_police
+2: West Mercia Police is missing Disclosure Log https://www.whatdotheyknow.com/body/west_mercia_police
+2: West Midlands Police and Crime Commissioner is missing Disclosure Log https://www.whatdotheyknow.com/body/west_midlands_pcc
+2: West Yorkshire Police is missing Disclosure Log https://www.whatdotheyknow.com/body/west_yorkshire_police
+2: Wiltshire Constabulary is missing Disclosure Log https://www.whatdotheyknow.com/body/wiltshire_police
+3: Hampshire Police and Crime Commissioner is missing Publication Scheme but has Disclosure Log https://www.whatdotheyknow.com/body/hampshire_pcc

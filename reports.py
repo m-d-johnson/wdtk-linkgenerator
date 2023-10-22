@@ -9,7 +9,7 @@ def generate_problem_reports():
     report_output_file = open("output/report-missing_data.txt", "w")
     report_markdown_file = open("output/missing-data.md", "w")
     # confirm = input(
-    #     "This will send emails to a number of people. Is this what you want? "
+    #     "This will send emails to lots of people. Is this what you want? "
     #     "Type 'Yes' to continue"
     # )
     confirm = "no"
@@ -20,7 +20,7 @@ def generate_problem_reports():
         sleep(10)
 
     # 1: Missing Publication Scheme and Disclosure Log
-    report_markdown_file.write("## Missing Pub. Scheme and Disclosure Log\n\n")
+    report_markdown_file.write("## Missing Publication Scheme and Disclosure Log\n\n")
     report_markdown_file.write("|Name|Org Page|Email|\n")
     report_markdown_file.write("|-|-|-|\n")
     for force in dataset:
@@ -44,7 +44,7 @@ def generate_problem_reports():
                 f"both, please?\n\nWith thanks,\nMike "
                 f"Johnson\nmdj@mikejohnson.xyz\n"
             )
-            findingtxt = f"1: {force['Name']} is missing Pub Scheme URLs {force['WDTK_Org_Page_URL']}\n"
+            findingtxt = f"1: {force['Name']} is missing Publication Scheme URLs {force['WDTK_Org_Page_URL']}\n"
             findingmd = f"|{force['Name']} | {force['WDTK_Org_Page_URL']}|{force['FOI_Email_Address']}|\n"
 
             print(findingtxt)
@@ -59,7 +59,7 @@ def generate_problem_reports():
     report_markdown_file.write("\n\n")
 
     # 2: Missing Disclosure Log URL but Publication Scheme present
-    report_markdown_file.write("## Missing Disclosure Log only\n\n")
+    report_markdown_file.write("## Missing Disclosure Log (Publication Scheme present)\n\n")
     report_markdown_file.write("|Name|Org Page|Email|\n")
     report_markdown_file.write("|-|-|-|\n")
     for force in dataset:
@@ -93,8 +93,8 @@ def generate_problem_reports():
                 print("Email sending not confirmed. Written to log anyway.")
     report_markdown_file.write("\n\n")
 
-    # 3: Missing Pubscheme URL but Disclosure Log present
-    report_markdown_file.write("## Missing Pubscheme fields\n\n")
+    # 3: Missing Publication Scheme URL but Disclosure Log present
+    report_markdown_file.write("## Missing Publication Scheme (Disclosure Log present)\n\n")
     report_markdown_file.write("|Name|Org Page|Email|\n")
     report_markdown_file.write("|-|-|-|\n")
     for force in dataset:
@@ -117,7 +117,7 @@ def generate_problem_reports():
                 f"enough to send me the link, please?\n\nWith "
                 f"thanks,\nMike Johnson\nmdj@mikejohnson.xyz\n"
             )
-            findingtxt = f"3: {force['Name']} is missing Pubscheme but has Disclosure Log {force['WDTK_Org_Page_URL']}\n"
+            findingtxt = f"3: {force['Name']} is missing Publication Scheme but has Disclosure Log {force['WDTK_Org_Page_URL']}\n"
             findingmd = f"|{force['Name']} | {force['WDTK_Org_Page_URL']}|{force['FOI_Email_Address']}|\n"
             print(findingtxt)
             report_output_file.write(findingtxt)
@@ -128,3 +128,4 @@ def generate_problem_reports():
             else:
                 print("Email sending not confirmed. Written to log anyway.")
     report_markdown_file.write("\n\n")
+    report_markdown_file.close()

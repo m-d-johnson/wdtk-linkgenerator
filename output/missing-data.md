@@ -1,4 +1,4 @@
-## Missing Pub. Scheme and Disclosure Log
+## Missing Publication Scheme and Disclosure Log
 
 | Name                                                       | Org Page                                                                        | Email                                              |
 |------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|
@@ -83,7 +83,6 @@
 | Port of Portland Police                                    | https://www.whatdotheyknow.com/body/port_of_portland_police                     | police@portland-port.co.uk                         |
 | Port of Tilbury London Police                              | https://www.whatdotheyknow.com/body/port_of_tilbury_london_police               | police.control@potll.com                           |
 | Royal Ulster Constabulary George Cross Foundation          | https://www.whatdotheyknow.com/body/rucgcf                                      | rucgcfoundation@nics.gov.uk                        |
-| Scottish Police Authority                                  | https://www.whatdotheyknow.com/body/scottish_police_authority                   | FOI@spa.police.uk                                  |
 | South Wales Police and Crime Panel                         | https://www.whatdotheyknow.com/body/south_wales_pcp                             | FOI@merthyr.gov.uk                                 |
 | South Yorkshire Police and Crime Commissioner              | https://www.whatdotheyknow.com/body/south_yorkshire_pcc                         | info@southyorkshire-pcc.gov.uk                     |
 | South Yorkshire Police and Crime Panel                     | https://www.whatdotheyknow.com/body/south_yorkshire_pcp                         | Debbie.Bacon@rotherham.gov.uk                      |
@@ -113,7 +112,8 @@
 | Wiltshire Police and Crime Panel                           | https://www.whatdotheyknow.com/body/wiltshire_pcp                               | committee@wiltshire.gov.uk                         |
 | York Minster Police                                        | https://www.whatdotheyknow.com/body/york_minster_police                         | info@yorkminster.org                               |
 
-## Missing Disclosure Log only
+
+## Missing Disclosure Log (Publication Scheme present)
 
 | Name                                              | Org Page                                                      | Email                                        |
 |---------------------------------------------------|---------------------------------------------------------------|----------------------------------------------|
@@ -152,7 +152,8 @@
 | West Yorkshire Police                             | https://www.whatdotheyknow.com/body/west_yorkshire_police     | foi@westyorkshire.pnn.police.uk              |
 | Wiltshire Constabulary                            | https://www.whatdotheyknow.com/body/wiltshire_police          | disclosure@wiltshire.pnn.police.uk           |
 
-## Report on missing Pubscheme fields
+
+## Missing Publication Scheme (Disclosure Log present)
 
 | Name                                    | Org Page                                          | Email                        |
 |-----------------------------------------|---------------------------------------------------|------------------------------|

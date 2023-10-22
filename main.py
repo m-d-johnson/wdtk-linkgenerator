@@ -13,6 +13,7 @@ from opml import OpmlDocument
 from tabulate import tabulate
 
 import make_dataset
+import reports
 
 # TODO: Reduce the replication in this script.
 # - Doing this ad-hoc while I decide whether to maintain this or refactor it
@@ -189,8 +190,14 @@ if __name__ == "__main__":
         )
     args = parser.parse_args()
 
-    print("Args report = ", args.report)
+    print("Args: report = ", args.report)
+    print("Args: mysociety = ", args.mysociety)
+    print("Args: refresh = ", args.refresh)
+    print("Args: generate = ", args.generate)
 
+    if args.report is True:
+        reports.generate_problem_reports()
+        sys.exit()
     if args.mysociety:
         get_csv_dataset_from_mysociety()
         process_mysociety_dataset()
@@ -206,9 +213,4 @@ if __name__ == "__main__":
         markdown_output_file.close()
         cleanup(args.retain)
         sys.exit()
-    if args.report:
-        from reports import generate_problem_reports
 
-        get_csv_dataset_from_mysociety()
-        generate_problem_reports()
-        sys.exit()
