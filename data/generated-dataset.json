@@ -2704,10 +2704,10 @@
         "WDTK_Atom_Feed_URL": "https://www.whatdotheyknow.com/feed/body/scottish_police_authority",
         "WDTK_Org_Page_URL": "https://www.whatdotheyknow.com/body/scottish_police_authority",
         "WDTK_JSON_Feed_URL": "https://www.whatdotheyknow.com/feed/body/scottish_police_authority.json",
-        "Disclosure_Log_URL": "",
+        "Disclosure_Log_URL": "https://www.spa.police.uk/publication-library/?category=FOI",
         "Home_Page_URL": "http://www.spa.police.uk",
         "Name": "Scottish Police Authority",
-        "Publication_Scheme_URL": "",
+        "Publication_Scheme_URL": "https://www.spa.police.uk/publication-library/",
         "LoC_Authority_ID": "nb2017001105",
         "WikiData_Identifier": "Q7437899",
         "FOI_Email_Address": "FOI@spa.police.uk"

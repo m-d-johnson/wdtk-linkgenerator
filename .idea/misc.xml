@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Black">
-    <option name="sdkUUID" value="fb5d1225-9cbc-45b7-bd96-35f80af38b5c" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (wdtk-linkgenerator)" project-jdk-type="Python SDK" />
 </project>

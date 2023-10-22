@@ -1,12 +1,10 @@
 import argparse
 import csv
-import datetime
 import json
 import os
 import pathlib
 import re
 import sys
-from datetime import datetime
 
 import mdformat
 import requests
@@ -55,7 +53,7 @@ def generate_header():
     body += (
         "|Body|Website|WDTK Page|JSON|Feed: Atom|Feed: JSON|Publication "
         "Scheme|Disclosure Log|Email|\n"
-    )
+        )
     body += "|-|-|-|-|-|-|-|-|-|\n"
     return body
 
